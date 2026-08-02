@@ -20,20 +20,11 @@ I'm a Computer Science Engineering student passionate about Cloud Computing, Dev
 </p>
 
 
-## 🚀 Featured Projects
+## 🧩 LeetCode Progress
 
-### ☁️ Azure Highly Available Web Application
-> Deploying a secure and highly available web application on Microsoft Azure using Virtual Machines, Application Gateway, Load Balancer, Azure Monitor, Storage Accounts, Blob Storage, Azure DNS, and Virtual Networking.
-
-### 🔄 Terraform-Based CI/CD Pipeline
-> Built a complete Infrastructure as Code solution using Terraform with ECS Fargate, ALB, Docker, GitHub Actions, and Terratest.
-
-### 🔐 DevSecOps Pipeline
-> Automated secure deployments on Amazon EKS using GitHub Actions, ArgoCD, Helm, Trivy, tfsec, and Sealed Secrets.
-
-### 🧠 Quizzard
-> A full-stack quiz platform built with React, Node.js, and MongoDB featuring authentication, quizzes, and a responsive interface.
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adarsh5502?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
 ## 🧩 Coding Profiles
 
 <p align="center">
@@ -47,9 +38,3 @@ I'm a Computer Science Engineering student passionate about Cloud Computing, Dev
 - LinkedIn: https://linkedin.com/in/adarsh-kumar-choudhary-035153260
 - GitHub: https://github.com/Adarsh5502
 - Email: adarshchoudhary6@gmail.com
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarsh5502&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
-</p>
