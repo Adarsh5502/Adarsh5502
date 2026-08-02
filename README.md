@@ -2,16 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Cloud+%26+DevOps+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+# Hi 👋, I'm Adarsh Kumar Choudhary
 
-I'm a Computer Science Engineering student passionate about Cloud Computing, DevOps, and Backend Development. I enjoy designing scalable infrastructure, automating deployments, and building reliable applications.
+### 🚀 Learning • Building • Automating | Cloud & DevOps Engineer in the Making
 
-- ☁️ Exploring Cloud, DevOps & Infrastructure as Code
-- 💻 Backend Development with Java
-- 🚀 Building scalable cloud and full-stack applications
-- 🛠️ Interested in System Design, CI/CD, and Automation
-- 🧩 Regularly solving Data Structures & Algorithms
-- 📚 Always learning and improving through hands-on projects
+**Java | AWS | Azure | Docker | Kubernetes | Terraform | DevSecOps**
+
+---
+
+# 💫 About Me
+
+🎓 **4th Year B.Tech Computer Science & Engineering Student** at **Silicon University, Bhubaneswar**
+
+☁️ Passionate about **Cloud Computing, DevOps, Infrastructure as Code, and Backend Development**
+
+🚀 Building scalable cloud infrastructure, CI/CD pipelines, and highly available applications using **AWS** and **Microsoft Azure**
+
+🔒 Exploring **DevSecOps, GitOps, Cloud-Native Technologies, Kubernetes Security, and Infrastructure Automation**
+
+🌱 Currently learning **Advanced Kubernetes, Azure Architecture, System Design, Helm, Argo CD, and Platform Engineering**
+
+💻 Solving **Data Structures & Algorithms** to strengthen problem-solving and software engineering fundamentals.
+
+⚡ I enjoy turning ideas into reliable, secure, and scalable systems through automation and modern cloud technologies.
 
 - ## 🛠️ Tech Stack
 
