@@ -19,12 +19,6 @@ I'm a Computer Science Engineering student passionate about Cloud Computing, Dev
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,aws,azure,docker,kubernetes,terraform,git,github,linux,vscode,postman,nginx&perline=10" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adarsh5502&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh5502&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🚀 Featured Projects
 
